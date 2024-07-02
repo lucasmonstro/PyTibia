@@ -123,8 +123,8 @@ Por enquanto as hotkeys no PyTibia não são configuráveis, é necessário deix
 
 ## Pré-requisitos
 
-- [`Python`](https://www.python.org/downloads/release/python-3913) 3.9.13
-- [`Poetry`](https://python-poetry.org/docs/#installation) >=1.2.0
+- [`Python`](https://www.python.org/downloads/release/python-3117) 3.11.7
+- [`Poetry`](https://python-poetry.org/docs/#installation) >=1.8.2
 
 Antes de continuar instale os seguintes pacotes:
 
